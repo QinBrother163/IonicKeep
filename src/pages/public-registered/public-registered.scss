@@ -1,0 +1,47 @@
+page-public-registered {
+  .scroll-content{
+    background-color: #2d2d2d;
+  }
+  .registered_user{
+    text-align: center;
+    font-size: 1.7em;
+    color: #fff;
+    margin-top: 10%;
+  }
+  .rung{
+    width: 20px;
+    height: 1px;
+    margin: 0 auto;
+    background-color: #4d4d4d;
+  }
+  .registered_phone{
+    margin: 0 auto;
+    padding: 0 30%;
+  }
+  .registered_phone_wrap{
+    text-align: center;
+  }
+  .registered_marTop{
+    margin-top: 15%;
+  }
+  .rung_mar{
+    margin: 14% 0;
+  }
+  .registered_WeChat,.registered_QQ{
+    padding: 0 27%;
+    border: 1px solid #fff;
+    background-color: #2d2d2d;
+    color: #fff;
+  }
+  .registered_QQ{
+    margin-top: 5%;
+  }
+  .registered_other{
+    margin: 10% 0 15% 0;
+    color: #4d4d4d;
+  }
+  .registered_terms,.registered_terms a{
+    color: #fff;
+    font-size: 12px;
+  }
+}
